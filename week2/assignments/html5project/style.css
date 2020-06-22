@@ -1,0 +1,26 @@
+p {
+    line-height: 25px;
+}
+.test {
+    background-color: aqua;
+}
+.headline-color {
+    color: darkgreen;
+}
+.font {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+span > a {
+    text-decoration: none;
+}
+       a:hover {
+           text-decoration: underline;
+       }
+#uppercase {
+    text-transform: uppercase;
+}
+.image-position {
+        float: right;
+      
+}
