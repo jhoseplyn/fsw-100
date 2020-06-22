@@ -21,6 +21,7 @@ span > a {
     text-transform: uppercase;
 }
 .image-position {
-        float: right;
+        float: left;
+        margin-right: 10px;
       
 }
